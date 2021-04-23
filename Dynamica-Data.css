@@ -633,6 +633,8 @@
 
   .u-section-4 .u-image-4 {
     margin-top: 61px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-4 .u-text-7 {
@@ -1116,7 +1118,11 @@
   }
 
   .u-section-6 .u-layout-cell-1 {
-    min-height: 85px;
+    min-height: 181px;
+  }
+
+  .u-section-6 .u-image-1 {
+    margin: -2px auto;
   }
 
   .u-section-6 .u-layout-cell-3 {
